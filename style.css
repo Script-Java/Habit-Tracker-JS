@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(18, 18, 18);
+}
+.welcome_banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.289),rgba(0, 0, 0, 0.232)), url(../assets/pexels-irina-iriser-1005711.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.welcome_banner h1, p {
+    color: rgb(228, 228, 228);
+}
+.welcome_banner p {
+    color: rgb(204, 204, 204);
+}
